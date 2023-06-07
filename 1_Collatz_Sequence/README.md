@@ -1,3 +1,3 @@
 The first thing I wanted to hit was functions. For and while loops aren't my strong thing right now but practice makes perfect 😁 so, what are functions? There like a minigame in a game. You can have this block of code that has mutiple methods and if statements etc. in a block of code which is stored and only ran until it's called. 
 
-![Screenshot](https://github.com/ArtistYay/Python_Projects/blob/main/1.Collatz-Sequence/Screenshot%202023-06-05%20at%209.50.14%20PM.png)
+![Screenshot](https://github.com/ArtistYay/Python_Projects/blob/main/1_Collatz_Sequence/Screenshot%202023-06-05%20at%209.50.14%20PM.png)
